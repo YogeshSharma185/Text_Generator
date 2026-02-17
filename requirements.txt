@@ -1,0 +1,6 @@
+torch
+streamlit
+numpy
+ipykernel
+matplotlib
+tqdm
