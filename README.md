@@ -28,19 +28,21 @@ This project allows users to generate creative text using **LSTM** and **Transfo
 
 ## 📁 Project Structure
 
+```text
 AI-Text-Generation/
 │
 ├── notebook/
-│ ├── lstm_training.ipynb
-│ ├── transformer_training.ipynb
+│   ├── lstm_training.ipynb
+│   ├── transformer_training.ipynb
 │
 ├── models/
-│ ├── lstm_model.pth
-│ ├── transformer_model.pth
+│   ├── lstm_model.pth
+│   ├── transformer_model.pth
 │
 ├── streamlit_app.py
 ├── requirements.txt
 └── README.md
+```
 
 
 ---
