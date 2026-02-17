@@ -33,11 +33,8 @@ AI-Text-Generator/
 │
 ├── data/
 │   ├── text.txt
-│   
-│
 │── lstm_model.pth
 │── transformer_model.pth
-│
 ├── streamlit_app.py
 ├── Text_Generation.ipynb
 ├── requirements.txt
