@@ -174,7 +174,5 @@ streamlit run streamlit_app.py
 
 **Yogesh Sharma**  
 AI / Machine Learning Engineer  
-Built as a hands-on deep learning project to understand **sequence modeling, evaluation, and deployment**
-
 ---
 
