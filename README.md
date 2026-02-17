@@ -1,4 +1,4 @@
-# 🧠 AI Text Generation App (LSTM vs Transformer)
+# 🧠 AI Text Generator – LSTM & Transformer
 
 An end-to-end **AI Text Generation system** built using **deep learning language models**.  
 This project allows users to generate creative text using **LSTM** and **Transformer** models, compare their outputs side-by-side, and control creativity using **temperature sampling**.
@@ -163,22 +163,11 @@ pip install -r requirements.txt
 
 ### 2️⃣ Train Models
 Open and run:
-- `lstm_training.ipynb`
-- `transformer_training.ipynb`
+- `Text_Generation.ipynb`
 
 ### 3️⃣ Launch Web App
 streamlit run streamlit_app.py
 
-
----
-
-## 🔮 Future Improvements
-
-- Use GPT-style pretraining
-- SentencePiece / BPE tokenization
-- Beam search decoding
-- Multi-dataset training
-- Chat-style interface
 
 ---
 
@@ -190,12 +179,3 @@ Built as a hands-on deep learning project to understand **sequence modeling, eva
 
 ---
 
-## ⭐ Final Note
-
-This project demonstrates:
-- Real model training (not API calls)
-- Proper evaluation
-- Practical deployment
-- Clear comparison between classical LSTM and modern Transformers
-
-Perfect for **ML portfolios, interviews, and learning NLP deeply** 🚀
